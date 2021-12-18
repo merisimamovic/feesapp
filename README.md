@@ -1,24 +1,9 @@
 # feesapp
 
-## Project setup
-```
-npm install
-```
+Hello!
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Please visit the deployed app at the following link:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+https://epic-hopper-b50140.netlify.app/
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Thanks!
