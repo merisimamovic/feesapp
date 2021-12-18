@@ -8,8 +8,8 @@
                 <div class="form-group">
 
                     <div class="radio-group">
-                        <input type="radio" name="buttonGroup" value="one" id="one"><label for="one">Najbrže</label>
-                        <input type="radio" name="buttonGroup" value="two" id="two"><label for="two">Najjeftinije</label>
+                        <input type="radio" name="buttonGroup" value="one" id="one" class="mr-8"><label for="one">Najbrže</label>
+                        <input type="radio" name="buttonGroup" value="two" id="two" class="mr-8"><label for="two">Najjeftinije</label>
                     </div>
 
                     <div class="form">
@@ -37,9 +37,9 @@
 
                 <h1 class="mb-8">Opskrbite svoje voljene</h1>
                 <div class="btn-group">
-                    <a href="#" class="btn-secondary">Pokloni</a>
-                    <a href="#" class="btn-secondary">Namirnice</a>
-                    <a href="#" class="btn-secondary">Zdravstvene usluge</a>
+                    <a href="#" class="btn-secondary mr-8">Pokloni</a>
+                    <a href="#" class="btn-secondary mr-8">Namirnice</a>
+                    <a href="#" class="btn-secondary mr-8">Zdravstvene usluge</a>
                     <a href="#" class="btn-secondary">Lijekovi</a>
                 </div>
             </div>

@@ -17,20 +17,24 @@ export default {
 </script>
 
 <style>
+@font-face {
+  font-family: "Objectivity-Regular";
+  src: local("Objectivity-Regular"), url(./fonts/Objectivity-Regular.woff2) format("woff2");
+}
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: Objectivity-Regular ,Avenir, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 
 :root {
-    --blue: #0669F8;
-    --bluehover: #0F56BD;
-    --dark: #182B47;
-    --light: #8A99AE;
+  --blue: #0669F8;
+  --bluehover: #0F56BD;
+  --dark: #182B47;
+  --light: #8A99AE;
 }
 
 * {
@@ -139,6 +143,10 @@ transition: all 300ms ease-in-out;
     height: auto;
 }
 
+.mr-8 {
+  margin-right: 8px;
+}
+
 .line {
     height: 1px;
     width: 100%;
@@ -148,6 +156,9 @@ transition: all 300ms ease-in-out;
     bottom: 5%;
     left: 0;
     right: 0;
+}
+.option {
+  text-align: left;
 }
 
 input[type='radio'][name='buttonGroup'] { display:none; }
