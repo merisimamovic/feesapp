@@ -1,24 +1,11 @@
 # feesapp
 
-## Project setup
-```
-npm install
-```
+Hello!
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Please preview the app at the following links:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+https://www.figma.com/proto/1Pv26rZNYSL0mh6TNul1wV/Feesless?node-id=1%3A7&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A7
 
-### Lints and fixes files
-```
-npm run lint
-```
+https://epic-hopper-b50140.netlify.app/
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Thanks!
