@@ -260,7 +260,7 @@ input[type='radio'][name='buttonGroup']:checked + label { background-color: var(
 }
 
 .w-50 {
-    width: 50%;
+    width: 55%;
     display: inline-block;
     margin-bottom: 2rem;
 }
