@@ -2,7 +2,7 @@
     <nav class="nav">
         <div class="max-width  flex nav__wrapper">
             <div class="nav__inner">
-                <img src="./img/logo.svg" alt="" class="logo">
+                <img src="../assets/logo.svg" alt="" class="logo">
                 <ul class="nav__menu">
                     <li><a href="#">Uporedi transfer</a></li>
                     <li><a href="#">Opskrba voljenih</a></li>

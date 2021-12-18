@@ -1,6 +1,6 @@
 <template>
         <section class="hero">
-            <img src="./img/img1.png" class="bg-img" alt="">
+            <img src="../assets/img1.png" class="bg-img" alt="">
             <div class="max-width flex-c">
 
                 <h1 class="w-50">Pronađite najpogodniji način slanja novca u Bosnu i Hercegovinu</h1>
