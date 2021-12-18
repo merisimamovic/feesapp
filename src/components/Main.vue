@@ -29,7 +29,7 @@
                             <input placeholder="0,00" class="input" type="text">
                         </div>
                 
-                        <a href="https://www.figma.com/file/1Pv26rZNYSL0mh6TNul1wV/Feesless?node-id=0%3A1" class="btn-primary">Uporedi</a>
+                        <a href="https://www.figma.com/proto/1Pv26rZNYSL0mh6TNul1wV/Feesless?node-id=1%3A7&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A7" class="btn-primary">Uporedi</a>
 
                     </div>
                 
