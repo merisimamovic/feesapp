@@ -1,5 +1,6 @@
 <template>
-  <nav></nav>
+  <nav />
+  <helloworld />
 </template>
 
 <script>
