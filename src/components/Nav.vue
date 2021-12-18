@@ -1,12 +1,21 @@
 <template>
-  <div class="nav">
-  <img alt="Fees logo" src="../assets/logo.svg" class="logo">
-    <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">Pitanja</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">Savjeti</a></li>
-      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">Pretraga</a></li>
-    </ul>
-  </div>
+    <nav class="nav">
+        <div class="max-width  flex nav__wrapper">
+            <div class="nav__inner">
+                <img src="./img/logo.svg" alt="" class="logo">
+                <ul class="nav__menu">
+                    <li><a href="#">Uporedi transfer</a></li>
+                    <li><a href="#">Opskrba voljenih</a></li>
+                    <li><a href="#">Savjeti</a></li>
+                    <li><a href="#">Pitanja</a></li>
+                    <li><a href="#">O nama</a></li>
+                </ul>
+            </div>
+            <a href="#" class="btn-ghost">Registruj se</a>
+        </div>
+        <div class="line"></div>
+    </nav>
+
 </template>
 
 <script>
@@ -20,31 +29,4 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-.nav {
-  height: 8vh;
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.logo {
-  width: 140px;
-  height: auto;
-}
-
-h3 {
-  margin: 40px 0 0;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: blue;
-}
 </style>
