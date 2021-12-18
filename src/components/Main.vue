@@ -8,8 +8,8 @@
                 <div class="form-group">
 
                     <div class="radio-group">
-                        <input type="radio" name="buttonGroup" value="one" id="one" class="mr-8"><label for="one">Najbrže</label>
-                        <input type="radio" name="buttonGroup" value="two" id="two" class="mr-8"><label for="two">Najjeftinije</label>
+                        <input type="radio" name="buttonGroup" value="one" id="one"><label for="one" class="mr-8">Najbrže</label>
+                        <input type="radio" name="buttonGroup" value="two" id="two"><label for="two" class="mr-8">Najjeftinije</label>
                     </div>
 
                     <div class="form">

@@ -21,6 +21,14 @@ export default {
   font-family: "Objectivity-Regular";
   src: local("Objectivity-Regular"), url(./fonts/Objectivity-Regular.woff2) format("woff2");
 }
+@font-face {
+  font-family: "Objectivity-Bold";
+  src: local("Objectivity-Bold"), url(./fonts/Objectivity-Bold.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Objectivity-Medium";
+  src: local("Objectivity-Medium"), url(./fonts/Objectivity-Medium.woff2) format("woff2");
+}
 
 #app {
   font-family: Objectivity-Regular ,Avenir, sans-serif;
@@ -46,18 +54,19 @@ export default {
 body {
     font-family: sans-serif;
     color: var(--dark);
-}
-
-h1, h2, h3, h4, h5, h6 {
     line-height: 1.3;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: Objectivity-Bold, Avanir, sans-serif;
+}
+
 h1 {
-    font-size: 40px;
+  font-size: 40px;
 }
 
 h5 {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 a, a:active {
@@ -102,6 +111,7 @@ ul li {
     border: 2px solid #0669F8;
     background: white;
     transition: all 300ms ease-in-out;
+    font-family: Objectivity-Bold, Avanir, sans-serif;
 }
 
 .btn-ghost:hover {
@@ -117,6 +127,7 @@ border: 2px solid #0669F8;
 background: var(--blue);
 color: #fff;
 transition: all 300ms ease-in-out;
+font-family: Objectivity-Bold, Avanir, sans-serif;
 }
 
 .btn-primary:hover {
@@ -130,6 +141,8 @@ border-radius: 12px;
 border: 2px solid var(--light);
 background: #fff;
 transition: all 300ms ease-in-out;
+font-family: Objectivity-Bold, Avanir, sans-serif;
+
 }
 
 .btn-secondary:hover {
