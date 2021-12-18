@@ -1,6 +1,6 @@
 <template>
   <div class="nav">
-  <img alt="Fees logo" src="./assets/logo.svg" class="logo">
+  <img alt="Fees logo" src="../assets/logo.svg" class="logo">
     <ul>
       <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">Pitanja</a></li>
       <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">Savjeti</a></li>
