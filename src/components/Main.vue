@@ -21,7 +21,7 @@
 
                         <div class="option">
                             <p class="text-sm mb-8">Slanje u</p>
-                            <h5>Njemačka</h5>
+                            <h5>Bosna i Hercegovina</h5>
                         </div>
 
                         <div class="option">
