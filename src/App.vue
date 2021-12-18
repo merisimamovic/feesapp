@@ -1,15 +1,16 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.svg">
-  <HelloWorld msg="Jebo ja mater svoju"/>
+  <nav></nav>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import Nav from './components/Nav.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    Nav
   }
 }
 </script>
